@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiLabTask1", "BiLabTask1\BiLabTask1.csproj", "{52F96055-0101-495D-A5B6-56F735410365}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiLabTask3", "BiLabTask3\BiLabTask3.csproj", "{085C1DC4-90C0-4090-9AAF-7DEBA10D3ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3Tests", "Task3Tests\Task3Tests.csproj", "{E1FAD8CC-9106-498C-A802-71F4D964F57B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{52F96055-0101-495D-A5B6-56F735410365}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F96055-0101-495D-A5B6-56F735410365}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F96055-0101-495D-A5B6-56F735410365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085C1DC4-90C0-4090-9AAF-7DEBA10D3ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085C1DC4-90C0-4090-9AAF-7DEBA10D3ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085C1DC4-90C0-4090-9AAF-7DEBA10D3ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085C1DC4-90C0-4090-9AAF-7DEBA10D3ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FAD8CC-9106-498C-A802-71F4D964F57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FAD8CC-9106-498C-A802-71F4D964F57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FAD8CC-9106-498C-A802-71F4D964F57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FAD8CC-9106-498C-A802-71F4D964F57B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
